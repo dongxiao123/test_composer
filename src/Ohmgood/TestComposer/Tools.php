@@ -16,6 +16,6 @@ class Tools
      */
     public static function helloWorld2()
     {
-        echo "helloWorld2";
+        echo "helloWorld2111";
     }
 }
